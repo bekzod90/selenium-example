@@ -19,7 +19,6 @@ The result looks as following:
 ![](./docs/img/autotests.gif)
 
 
-
 ## LICENSE ##
 
 [MIT License](https://raw.githubusercontent.com/leftstick/selenium-example/master/LICENSE)
